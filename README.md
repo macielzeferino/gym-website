@@ -5,3 +5,10 @@ my knowledge in html and css, it is the home page of a gym website, </br>
 in which I used as a reference a gym that exists in my city.</p>
 
 <h2 align="center">Images Project</h2>
+<div align="center">
+  
+</div>
+
+<div align="center">
+  
+</div>

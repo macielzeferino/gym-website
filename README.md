@@ -13,3 +13,15 @@ in which I used as a reference a gym that exists in my city.</p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/91911910/202868406-5d5c8f64-c4f7-4a96-a850-01b0e80b28b7.png"/>
 </div>
+
+<h3 align="center">Tecnologies Used</h3>
+<p align="center">Html</p>
+<p align="center">Css</p>
+<p align="center">Git</p>
+
+<h3 align="center">Follow me on social networks</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/maciel-zeferino">Linkedin</a>
+<a href="contatomacielzeferino@gmail.com">Gmail</a>
+<a href="https://www.instagram.com/maciel.zeferino/">Instagram</a>
+</div>

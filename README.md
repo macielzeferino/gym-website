@@ -22,6 +22,6 @@ in which I used as a reference a gym that exists in my city.</p>
 <h3 align="center">Follow me on social networks</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/maciel-zeferino">Linkedin</a>
-<a href="contatomacielzeferino@gmail.com">Gmail</a>
+<a href=maciel:contatomacielzeferino@gmail.com>Gmail</a>
 <a href="https://www.instagram.com/maciel.zeferino/">Instagram</a>
 </div>
